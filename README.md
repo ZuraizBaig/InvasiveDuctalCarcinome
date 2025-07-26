@@ -26,7 +26,8 @@ This project implements a convolutional neural network (CNN) to detect **Invasiv
 
 ## Data
 
-Place your breast histopathology images dataset in the `data/` folder. Structure should follow:
+Place your breast histopathology images dataset in the `data/` folder. Structure should follow:,
+and for data used in this project you may reach me on my email.
 ```
 data/
   └── class1/
